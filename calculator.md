@@ -18,3 +18,7 @@ function subtract(a, b):
 ---
 
 <!-- Other team members: add your functions below this line -->
+
+POWER
+function power(a, b):
+    return a**b;
