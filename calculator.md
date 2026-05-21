@@ -18,3 +18,7 @@ function subtract(a, b):
 ---
 
 <!-- Other team members: add your functions below this line -->
+
+DIVIDE
+function divide(a, b):
+    return a/b;
