@@ -7,7 +7,7 @@ Each team member implements one or more functions.
 Functions
 ADD
 function add(a, b):
-    return a + b;
+    return a+b;
 
 
 SUBTRACT
