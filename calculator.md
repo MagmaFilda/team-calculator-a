@@ -26,3 +26,7 @@ function multiply(a, b):
 DIVIDE
 function divide(a, b):
     return a/b;
+    
+POWER
+function power(a, b):
+    return a**b;
