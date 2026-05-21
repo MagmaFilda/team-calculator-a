@@ -22,3 +22,7 @@ function subtract(a, b):
 MULTIPLY
 function multiply(a, b):
     return a * b;
+    
+DIVIDE
+function divide(a, b):
+    return a/b;
